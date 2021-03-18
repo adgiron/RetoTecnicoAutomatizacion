@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Banistmo Empresas" skipped="0" tests="2" time="44.36" timestamp="2020-11-23 02:12:01"><testcase name="find correct pdf on banistmo page"/><testcase name="validate banistmo company page"/></testsuite>

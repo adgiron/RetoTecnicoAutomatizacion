@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Banistmo Empresas" skipped="0" tests="1" time="62.59" timestamp="2021-03-18 09:53:43"><testcase name="enter my government page"><failure message="Expected net.serenitybdd.screenplay.QuestionSubject@1251461&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected net.serenitybdd.screenplay.QuestionSubject@1251461
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected net.serenitybdd.screenplay.QuestionSubject@1251461
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+stepdefinitions.StepDefinitions.he_will_look_for_the_contracts_pdf_and_the_correct_one_should_be_displayed(StepDefinitions.java:30)&#13;
+✽.he will look for the contracts pdf and the correct one should be displayed ¿CONTRATO?(src/test/resources/features/banistmoempresa.feature:11)&#13;
+</system-err></testcase></testsuite>

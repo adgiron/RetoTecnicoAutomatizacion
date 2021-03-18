@@ -1,0 +1,228 @@
+<html class="js sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr"><head><meta charset="utf-8">
+	<base href="https://dicine.gob.pa/index.php/que-es-dicine">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="author" content="Gabriel Padilla">
+	<meta name="theme-color" content="#08a06d">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="apple-mobile-web-app-capable" content="YES">
+	<meta name="generator" content="Producciones AG http://www.agvideo.tv">
+	<title>Que es Dicine</title>
+	<link href="https://dicine.gob.pa/index.php/que-es-dicine/amp" rel="amphtml">
+	<link href="/templates/cliente/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="/templates/cliente/css/jui/bootstrap.min.css?0db269c6faac8971f9cab24d776739d2" rel="stylesheet">
+	<link href="/templates/cliente/css/all.min.css?0db269c6faac8971f9cab24d776739d2" rel="stylesheet">
+	<link href="/templates/cliente/css/template.css?0db269c6faac8971f9cab24d776739d2" rel="stylesheet">
+	<link href="/media/mod_alslideresponsive/css/flexslider.min.css" rel="stylesheet">
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/templates/cliente/js/jui/jquery.min.js?0db269c6faac8971f9cab24d776739d2"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?0db269c6faac8971f9cab24d776739d2"></script>
+	<script src="/templates/cliente/js/jui/jquery-migrate.min.js?0db269c6faac8971f9cab24d776739d2"></script>
+	<script src="/media/system/js/caption.js?0db269c6faac8971f9cab24d776739d2"></script>
+	<script src="/templates/cliente/js/jui/modernizr-3.6.min.js?0db269c6faac8971f9cab24d776739d2"></script>
+	<script src="/templates/cliente/js/jui/popper.min.js?0db269c6faac8971f9cab24d776739d2"></script>
+	<script src="/templates/cliente/js/jui/bootstrap.min.js?0db269c6faac8971f9cab24d776739d2"></script>
+	<script src="/templates/cliente/js/template.js?0db269c6faac8971f9cab24d776739d2" async=""></script>
+	<!--[if lt IE 9]><script src="/media/jui/js/html5.js?0db269c6faac8971f9cab24d776739d2"></script><![endif]-->
+	<script src="/media/mod_alslideresponsive/js/jquery.flexslider-min.js?0db269c6faac8971f9cab24d776739d2" defer=""></script>
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-136255632-1');
+
+ jQuery(function() {
+				jQuery('.slide90').flexslider({controlNav: false,directionNav: false,animation:'slide',slideshowSpeed:7000,animationDuration: 600});
+			});
+	</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-136255632-1', 'www.dicine.gob.pa');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+	<body class="computer page125" oncontextmenu="return false" ondragstart="return false" onselectstart="return false" data-spy="scroll" data-target="#navbar-thermax" data-offset="0">
+	<!--[if lt IE 8]><p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
+		<header class="header mt-2 border-bottom" role="banner">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 navbar-expand-lg">
+						<a class="navbar-brand" href="https://dicine.gob.pa/">
+							DICINE						</a>
+				        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+				          <span class="navbar-toggler-icon"></span>
+				        </button>
+					</div>
+					<div class="moduletable mt-4 pt-2 col-sm-4 col-lg-2">
+
+<div class="custom">
+	<p><a href="https://www.facebook.com/groups/151689531650339/" target="_blank" rel="noopener"><span class="fab fa-facebook h4"><span class="text-hide">facebook</span></span> </a> <a href="https://twitter.com/filmpanama1" target="_blank" rel="noopener"><span class="fab fa-twitter h4"><span class="text-hide">twitter</span></span></a> <a href="tel:507560-0638"><span class="fas fa-phone fa-flip-horizontal h4"><span class="text-hide">telefono</span></span> <span class="text-color">5</span></a>01-4000</p></div>
+</div><div class="moduletable mt-3 pt-1 px-0 col-sm-4 col-lg-3">
+
+<div class="custom">
+	<div class="mod-languages ">
+<ul class="nav lang-inline navbar-right">
+<li class="nav-item lang-active" dir="ltr"><a class="nav-link border" href="/index.php"> <img title="Español" src="/images/template/es_es.png" alt="Español" width="34" height="20"> Español </a></li>
+<li class="nav-item" dir="ltr"><a class="nav-link border" href="http://www.filmpanama.gob.pa"> <img title="English" src="/images/template/en_gb.png" alt="English" width="34" height="20"> English </a></li>
+</ul>
+</div></div>
+</div><div class="moduletable mt-3 col-sm-4 col-lg-2">
+
+<div class="custom">
+	<p><img src="/images/logo_nuevo_mici.png" alt="logo nuevo mici"></p></div>
+</div>
+				</div>	
+			</div>
+		</header>
+		
+		<nav class="navbar navbar-expand-lg" role="navigation">
+	      <div class="container">	      	
+	        <div id="navbar" class="navbar-collapse collapse">
+	          <ul class="nav nav-pills nav-fill">
+<li class="nav-item item-101 default"><a href="/index.php" class="nav-link ">Inicio</a></li><li class="nav-item item-112 deeper parent dropdown"><a href="#" class="nav-link  dropdown-toggle" data-toggle="dropdown" role="button">Servicios</a><ul class="nav-child dropdown-menu" role="menu"><li class="nav-item item-113"><a href="/index.php/servicios/registro-en-la-industria-cinematografica-nacional" class="nav-link ">Registro en la industria cinematografica nacional</a></li><li class="nav-item item-114"><a href="/index.php/servicios/ley-y-reglamentacion" class="nav-link ">Ley y Reglamentacion</a></li><li class="nav-item item-115"><a href="/index.php/servicios/concurso-fondo-cine" class="nav-link ">Concurso fondo cine</a></li><li class="nav-item item-116"><a href="/index.php/servicios/formularios" class="nav-link ">Formularios</a></li></ul></li><li class="nav-item item-117 deeper parent dropdown"><a href="#" class="nav-link  dropdown-toggle" data-toggle="dropdown" role="button">Producciones Panameñas</a><ul class="nav-child dropdown-menu" role="menu"><li class="nav-item item-118"><a href="/index.php/producciones-panamenas/largometrajes" class="nav-link ">Largometrajes</a></li><li class="nav-item item-119"><a href="/index.php/producciones-panamenas/cortometrajes" class="nav-link ">Cortometrajes</a></li><li class="nav-item item-120"><a href="/index.php/producciones-panamenas/documentales" class="nav-link ">Documentales</a></li></ul></li><li class="nav-item item-121"><a href="/index.php/ultimas-noticias" class="nav-link ">Últimas Noticias</a></li><li class="nav-item item-122"><a href="/index.php/boletines" class="nav-link ">Boletines</a></li><li class="nav-item item-123"><a href="/index.php/contactenos" class="nav-link ">Contactenos</a></li><li class="nav-item item-124"><a href="/index.php/productoras" class="nav-link ">Productoras</a></li></ul>
+
+	        </div>
+	      </div>
+	    </nav>
+						<div class="slideshow">
+					<div class="flexslider slide90">
+	
+<div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 600%; transition-duration: 0s; transform: translate3d(-1349px, 0px, 0px);"><li style="width: 1349px; margin-right: 0px; float: left; display: block;" class="clone" aria-hidden="true"><img src="https://dicine.gob.pa/images/slideshow/banner1.jpg" alt="banner1" width="1920" height="600" draggable="false"></li>
+		<li style="width: 1349px; margin-right: 0px; float: left; display: block;" class="flex-active-slide"><img src="https://dicine.gob.pa/images/slideshow/banner1.jpg" alt="banner1" width="1920" height="600" draggable="false"></li><li style="width: 1349px; margin-right: 0px; float: left; display: block;" class="clone" aria-hidden="true"><img src="https://dicine.gob.pa/images/slideshow/banner1.jpg" alt="banner1" width="1920" height="600" draggable="false"></li></ul></div></div>
+
+				</div>
+				<section class="container">
+			<div class="row">
+												<main id="content" role="main" class="col-lg-12">
+		            
+		            <div class="item-page">	
+	<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dicine.gob.pa//index.php/que-es-dicine"
+  },
+  "headline": "¿Que es DICINE?",
+  "image": [
+    ""
+   ],
+  "datePublished": "2019-03-18T09:16:36-05:00",
+  "dateModified": "2019-03-18T12:39:33-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "DICINE"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "DICINE",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://dicine.gob.pa/images/Logo_vert.jpg"
+    }
+  },
+  "description": "DICINE es la Dirección General de la industria cinematográfica y audiovisual y tiene como objetivo diseñar y ejecutar las políticas de inversión y comercia..."
+}
+</script>	
+		
+			<div class="page-header mb-4">
+					<h3 class="article-title pl-2">
+				¿Que es DICINE?			</h3>
+									</div>
+					
+		
+	
+	
+		
+						<div class="article-text" itemprop="articleBody">
+		<p>DICINE es la Dirección General de la industria cinematográfica y audiovisual y&nbsp; tiene como objetivo diseñar y ejecutar las políticas de inversión y comercialización de la República de Panamá; disponer de la capacidad de hacer trámites interinstitucionales expeditos y efectivos, para garantizar la efectividad de la Ley 16 del 27 de abril del 2012, a fin de proteger esta industria; Registrar Producciones, Registro de Incentivos y Fondo Cine que están bajo el cuidado y manejo actualizado del Ministerio de Comercio e Industrias;</p>
+<p>Nuestro objetivo es dar primera atención a la necesidad del fomento, fortalecimiento, crecimiento, promoción, divulgación, responsabilidad cultural y social, por el cual se creó el Fondo Cine, en el que el Estado se compromete a nutrir, a fin de apoyar e incentivar a los panameños a fortalecer esta industria, siguiendo los procedimientos descritos en la Ley.</p>	</div>
+
+	
+									</div>
+
+		            				</main>
+							</div>			
+						
+						
+								<div class="clearfix"></div>
+					<div class="row">
+						<div class="moduletable my-4 pt-5 instituciones col-lg-12"><div class="row">    
+            <div class="col-md-3">
+                        
+	
+
+	<p><a href="https://miambiente.gob.pa/"><img class="d-block mx-auto" src="/images/instituciones/ministerio-de-ambiente.jpg" alt="ministerio de ambiente" width="215" height="91"></a></p>
+
+        </div>
+            <div class="col-md-3">
+                        
+	
+
+	<p><a href="http://www.atp.gob.pa/"><img class="mx-auto" src="/images/instituciones/atp.jpg" alt="atp"></a></p>
+
+        </div>
+            <div class="col-md-3">
+                        
+	
+
+	<p><img class="mx-auto" src="/images/instituciones/cinando.jpg" alt="cinando"></p>
+
+        </div>
+            <div class="col-md-3">
+                        
+	
+
+	<p><a href="https://www.mici.gob.pa/"><img class="mx-auto" src="/images/instituciones/ministerio-comercio.jpg" alt="ministerio comercio"></a></p>
+
+        </div>
+    </div>
+</div>
+					</div>
+						<div class="clearfix"></div>
+		</section>
+		<footer class="footer pt-3 pb-4 text-white" role="contentinfo">
+			<div class="container">
+				<div class="row"><div class="moduletable col-lg-3"><h4 class="font-weight-bold" id="dicine">DICINE</h4>
+
+<div class="custom">
+	<p>La Dirección General de Cine, DICINE, es parte del Ministerio de Cultura. Entre sus principales funciones esta la de fomentar el desarrollo de la industria cinematográfica nacional.</p>
+<p>© 2018 DICINE PANAMA</p>
+<p>-Todos los derechos reservados</p>
+<p><a class="text-white" href="https://www.facebook.com/groups/151689531650339/" target="_blank" rel="noopener"><span class="fab fa-facebook h4"><span class="text-hide">facebook</span></span></a> <a class="text-white" href="https://twitter.com/filmpanama1" target="_blank" rel="noopener"><span class="fab fa-twitter h4"><span class="text-hide">twitter</span></span></a></p></div>
+</div><div class="moduletable col-lg-3"><h4 class="font-weight-bold" id="contacto">CONTACTO</h4>
+
+<div class="custom">
+	<p>Central Telefonica: 501-4000</p>
+<p>Sheila Gonzalez<br>Directora General<br>E-mail: <a class="text-white" href="mailto:emastellari@mici.gob.pa">s</a>hgonzalez@micultura.gob.pa</p></div>
+</div><div class="moduletable col-lg-3"><h4 class="font-weight-bold" id="suscribete">SUSCRIBETE</h4>
+
+<div class="custom">
+	<p><a href="http://eepurl.com/bkMU5P" target="_blank" rel="noopener"><img src="/images/template/suscribir.png" alt="suscribir"></a></p></div>
+</div><div class="moduletable col-lg-3"><h4 class="font-weight-bold" id="ubicacion">UBICACIÓN</h4><div class="embed-responsive embed-responsive-16by9">
+  <iframe id="blockrandom" name="" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.747448793122!2d-79.53492838460559!3d8.995370993544254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8faca8f604ff1325%3A0x667e55fb0650ea48!2sMinisterio+de+Comercio+e+Industrias!5e0!3m2!1ses!2spa!4v1538490934404" width="100%" height="300" scrolling="auto" frameborder="0" class="embed-responsive-item wrapper " allowfullscreen="">
+        Sin marcos    </iframe>
+</div>
+</div></div>
+			</div>
+		</footer>
+				
+		        <!-- template realizado por: Daniel Vila Email: danielvila@outlook.com -->
+	
+
+</body></html>
